@@ -7,7 +7,7 @@ export default class Home extends Component {
         return(
             <div>
                 <Header />
-                <div class='bodyHome' >
+                <div className='bodyHome' >
                     <h1>Test Page</h1>
                     <ul>
                         <li><Link to='/' >Home</Link></li>
